@@ -1,0 +1,4 @@
+.build-native/
+.build/
+dist/
+.DS_Store
